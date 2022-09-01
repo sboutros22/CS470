@@ -1,6 +1,6 @@
-# RanchHand App
-# Customer: Vaughan (my homie), at his family ranch in Texas
-# Subtype: Something Fun, Something Useful, Startup Potential
+p RanchHand App
+Customer: Vaughan (my homie), at his family ranch in Texas
+Subtype: Something Fun, Something Useful, Startup Potential
 Big Skills: Database, Android, Image Analysis, Data Analytics
 Description:
 My buddy’s family ranch is relatively small, with 40-50 head of cattle on a few dozen acres.
