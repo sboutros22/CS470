@@ -1,4 +1,4 @@
-p RanchHand App
+RanchHand App
 Customer: Vaughan (my homie), at his family ranch in Texas
 Subtype: Something Fun, Something Useful, Startup Potential
 Big Skills: Database, Android, Image Analysis, Data Analytics
